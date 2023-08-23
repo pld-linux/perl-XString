@@ -13,7 +13,7 @@ License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-authors/id/A/AT/ATOOMIC/%{pnam}-%{version}.tar.gz
 # Source0-md5:	da5bbefeeb545e5c2eba2c7576c72e39
-URL:		https://metacpan.org/release/XString
+URL:		https://metacpan.org/dist/XString
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
 BuildRequires:	rpmbuild(macros) >= 1.745
