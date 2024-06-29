@@ -7,7 +7,7 @@ Summary:	XString - Isolated String helpers from B
 Summary(pl.UTF-8):	XString - wyizolowane z B klasy pomocnicze do łańcuchów
 Name:		perl-XString
 Version:	0.005
-Release:	4
+Release:	5
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
